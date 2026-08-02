@@ -1,5 +1,6 @@
 ## Production
 - [Dyslexor](https://github.com/Dyslexor/Dyslexor)
+- [Dyslexor App](https://github.com/Dyslexor/Dyscalculia)
 
 ## Frontend
 - [Navigation Animation](https://github.com/Dyslexor/Frontend_Animation)
