@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Dyslexor × Dyslexor Maths" src="assets/header-light.svg" width="720">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dyslexor/.github/main/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dyslexor/.github/main/header-light.svg">
+  <img alt="Dyslexor × Dyslexor Maths" src="https://raw.githubusercontent.com/Dyslexor/.github/main/header-light.svg" width="720">
 </picture>
 
 **Learning tools built for students with dyslexia and dyscalculia.**
