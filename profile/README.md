@@ -1,14 +1,20 @@
 <div align="center">
 
-# Dyslexor
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Dyslexor × Dyslexor Maths" src="assets/header-light.svg" width="720">
+</picture>
 
 **Learning tools built for students with dyslexia and dyscalculia.**
 
-[Website](https://dyslexor.com) &nbsp;·&nbsp; [Documentation](https://github.com/Dyslexor/DyslexorDocs) &nbsp;·&nbsp; [dyslexor.online](https://dyslexor.online) &nbsp;·&nbsp; [dyslexor.dev](https://dyslexor.dev)
+<br>
 
-![Status](https://img.shields.io/badge/status-live-2ea44f?style=flat-square)
-![Platforms](https://img.shields.io/badge/platforms-web%20%C2%B7%20iOS%20%C2%B7%20Android-C1673D?style=flat-square)
-![Region](https://img.shields.io/badge/based%20in-South%20Africa-555?style=flat-square)
+<a href="https://dyslexor.com"><img alt="Website" src="https://img.shields.io/badge/Website-dyslexor.com-F4A259?style=for-the-badge&labelColor=1B1B1B"></a>
+<a href="https://www.youtube.com/@Dyslexor"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@Dyslexor-F4A259?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1B1B1B"></a>
+<a href="https://github.com/Dyslexor/DyslexorDocs"><img alt="Docs" src="https://img.shields.io/badge/Docs-DyslexorDocs-F4A259?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=1B1B1B"></a>
+
+<sub>Also at <a href="https://dyslexor.online">dyslexor.online</a> · <a href="https://dyslexor.dev">dyslexor.dev</a> &nbsp;|&nbsp; Built in South Africa 🇿🇦</sub>
 
 </div>
 
@@ -41,6 +47,27 @@ Back-end services that power the web app.
 
 ---
 
+## See it in action
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://youtu.be/O2ha8Va7Cpk"><img src="https://img.youtube.com/vi/O2ha8Va7Cpk/hqdefault.jpg" alt="Part 1: How It's Built"></a>
+<br><b>Part 1</b><br>How It's Built<br><sub>Technical overview</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://youtu.be/vDsVIfauAJw"><img src="https://img.youtube.com/vi/vDsVIfauAJw/hqdefault.jpg" alt="Part 2: Web Demo"></a>
+<br><b>Part 2</b><br>Web Demo<br><sub>Student, Teacher & HOD</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://youtu.be/kIQKSvrsTQc"><img src="https://img.youtube.com/vi/kIQKSvrsTQc/hqdefault.jpg" alt="Part 3: Dyslexor Maths"></a>
+<br><b>Part 3</b><br>Dyslexor Maths<br><sub>Mobile demo</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## Archive
 
 These repositories are no longer maintained. They are kept for reference, and their features now live inside the main app or on hosted services.
@@ -57,6 +84,13 @@ These repositories are no longer maintained. They are kept for reference, and th
 - **[Dashboard](https://github.com/Dyslexor/Teacher_Dashboard)**: replaced by the teacher and head of department portals in the web app
 
 </details>
+
+---
+
+## Privacy & contact
+
+- **Privacy policy:** you can find our privacy policy at **[dyslexor.com/privacy](https://dyslexor.com/privacy)**.
+- **Get in touch:** schools, teachers and parents can email us at **[help@dyslexor.com](mailto:help@dyslexor.com)**.
 
 ---
 
