@@ -12,7 +12,7 @@
 
 <a href="https://dyslexor.com"><img alt="Website" src="https://img.shields.io/badge/Website-dyslexor.com-F4A259?style=for-the-badge&labelColor=1B1B1B"></a>
 <a href="https://www.youtube.com/@Dyslexor"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@Dyslexor-F4A259?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1B1B1B"></a>
-<a href="https://github.com/Dyslexor/DyslexorDocs"><img alt="Docs" src="https://img.shields.io/badge/Docs-DyslexorDocs-F4A259?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=1B1B1B"></a>
+<a href="https://dyslexordocs.onrender.com/"><img alt="Docs" src="https://img.shields.io/badge/Docs-DyslexorDocs-F4A259?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=1B1B1B"></a>
 
 <sub>Also at <a href="https://dyslexor.online">dyslexor.online</a> · <a href="https://dyslexor.dev">dyslexor.dev</a> &nbsp;|&nbsp; Built in South Africa 🇿🇦</sub>
 
@@ -79,9 +79,6 @@ These repositories are no longer maintained. They are kept for reference, and th
 
 - **[Text-to-Speech](https://github.com/Dyslexor/TTS)**: replaced by Google Cloud Text-to-Speech, called from the web app
 - **[Speech-to-Text](https://github.com/Dyslexor/STT)**: replaced by Deepgram, called from the web app
-- **[AI Summary / Text Simplification](https://github.com/Dyslexor/AI_Features)**: built into the web app
-- **[Navigation Animation](https://github.com/Dyslexor/Frontend_Animation)**: built into the web app
-- **[Dashboard](https://github.com/Dyslexor/Teacher_Dashboard)**: replaced by the teacher and head of department portals in the web app
 
 </details>
 
