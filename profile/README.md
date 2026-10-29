@@ -56,7 +56,7 @@ Back-end services that power the web app.
 <br><b>Part 1</b><br>How It's Built<br><sub>Technical overview</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://youtu.be/vDsVIfauAJw"><img src="https://img.youtube.com/vi/vDsVIfauAJw/hqdefault.jpg" alt="Part 2: Web Demo"></a>
+<a href="https://youtu.be/WQiS7nVd8Kg"><img src="https://img.youtube.com/vi/vDsVIfauAJw/hqdefault.jpg" alt="Part 2: Web Demo"></a>
 <br><b>Part 2</b><br>Web Demo<br><sub>Student, Teacher & HOD</sub>
 </td>
 <td width="33%" align="center" valign="top">
