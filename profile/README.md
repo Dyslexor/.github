@@ -12,9 +12,9 @@
 
 <a href="https://dyslexor.com"><img alt="Website" src="https://img.shields.io/badge/Website-dyslexor.com-F4A259?style=for-the-badge&labelColor=1B1B1B"></a>
 <a href="https://www.youtube.com/@Dyslexor"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@Dyslexor-F4A259?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1B1B1B"></a>
-<a href="https://dyslexordocs.onrender.com/"><img alt="Docs" src="https://img.shields.io/badge/Docs-DyslexorDocs-F4A259?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=1B1B1B"></a>
+<a href="https://docs.dyslexor.com/"><img alt="Docs" src="https://img.shields.io/badge/Docs-DyslexorDocs-F4A259?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=1B1B1B"></a>
 
-<sub>Also at <a href="https://dyslexor.online">dyslexor.online</a> · <a href="https://dyslexor.dev">dyslexor.dev</a> &nbsp;|&nbsp; Built in South Africa 🇿🇦</sub>
+<sub>Also at <a href="https://staging.dyslexor.com">staging.dyslexor</a> · <a href="https://dev.dyslexor.com">dev.dyslexor</a> &nbsp;|&nbsp; Built in South Africa 🇿🇦</sub>
 
 </div>
 
